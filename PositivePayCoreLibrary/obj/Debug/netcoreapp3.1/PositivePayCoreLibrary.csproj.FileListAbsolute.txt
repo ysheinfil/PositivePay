@@ -1,0 +1,9 @@
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\obj\Debug\netcoreapp3.1\PositivePayCoreLibrary.csprojAssemblyReference.cache
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\obj\Debug\netcoreapp3.1\PositivePayCoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\obj\Debug\netcoreapp3.1\PositivePayCoreLibrary.AssemblyInfoInputs.cache
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\obj\Debug\netcoreapp3.1\PositivePayCoreLibrary.AssemblyInfo.cs
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\bin\Debug\netcoreapp3.1\PositivePayCoreLibrary.deps.json
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\bin\Debug\netcoreapp3.1\PositivePayCoreLibrary.dll
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\bin\Debug\netcoreapp3.1\PositivePayCoreLibrary.pdb
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\obj\Debug\netcoreapp3.1\PositivePayCoreLibrary.dll
+C:\Users\ysheinfil\source\repos\PositivePayCoreLibrary\PositivePayCoreLibrary\obj\Debug\netcoreapp3.1\PositivePayCoreLibrary.pdb
